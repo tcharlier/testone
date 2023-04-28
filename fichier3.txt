@@ -1,1 +1,3 @@
 Nouveau fichier3 dans branche 2
+
+Nouvelle ligne
